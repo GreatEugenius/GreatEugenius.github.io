@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - My New Hugo Site</title>
+        <title>All Posts - Eugene&#39;s Blog</title>
         <link>http://greateugenius.github.io/posts/</link>
-        <description>All Posts | My New Hugo Site</description>
+        <description>All Posts | Eugene&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 02 Mar 2023 12:39:27 &#43;0800</lastBuildDate><atom:link href="http://greateugenius.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Who am I?</title>
     <link>http://greateugenius.github.io/4/</link>
