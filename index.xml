@@ -3,9 +3,17 @@
         <title>Eugene&#39;s Blog</title>
         <link>http://greateugenius.github.io/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 02 Mar 2023 12:39:27 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 Mar 2023 08:53:51 &#43;0800</lastBuildDate>
             <atom:link href="http://greateugenius.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>5</title>
+    <link>http://greateugenius.github.io/5/</link>
+    <pubDate>Sun, 05 Mar 2023 08:53:51 &#43;0800</pubDate>
+    <author>Eugene</author>
+    <guid>http://greateugenius.github.io/5/</guid>
+    <description><![CDATA[Have a nice day! ]]></description>
+</item>
+<item>
     <title>Who am I?</title>
     <link>http://greateugenius.github.io/4/</link>
     <pubDate>Thu, 02 Mar 2023 12:39:27 &#43;0800</pubDate>
